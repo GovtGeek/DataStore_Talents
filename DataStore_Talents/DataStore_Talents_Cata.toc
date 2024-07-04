@@ -6,9 +6,10 @@
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 2024.06.27
 ## Dependencies: DataStore
-## SavedVariables: DataStore_Talents_Characters, DataStore_Talents_Specializations, DataStore_Talents_SpecializationInfos
+## SavedVariables: DataStore_Talents_Characters, DataStore_Talents_Specializations, DataStore_Talents_SpecializationInfos, DataStore_Talents_Glyphs
 ## X-Category: Interface Enhancements
 
 Enum.lua
 DataStore_Talents.lua
 API\Specialization.lua
+API\Glyphs.lua
